@@ -39,11 +39,11 @@
 
 ## 📌 Pinned Projects
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=tokyonight" />
+  <a href="https://github.com/MaximoGtz/faltantes_api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaximoGtz&repo=faltantes_api&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=tokyonight" />
+  <a href="https://github.com/MaximoGtz/faltantes_front">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaximoGtz&repo=faltantes_front&theme=tokyonight" />
   </a>
 </p>
 
@@ -51,20 +51,19 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaximoGtz&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaximoGtz&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/maximo-gutierrez-02b394295/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
 > I break things on purpose… so users don’t have to 😄
