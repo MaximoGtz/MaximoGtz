@@ -7,10 +7,10 @@
 
 ---
 
-## 🚀 About Me
-💻 Automation Tester at Intel  
-⚙️ Backend & Test Automation Specialist  
-🌱 Always improving and learning new technologies  
+## About Me
+-Automation Tester at Intel  
+-Backend & Test Automation Specialist 
+-Always improving and learning new technologies  
 
 ---
 
