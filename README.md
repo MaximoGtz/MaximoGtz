@@ -28,7 +28,10 @@
 
 ---
 
-## 🧪 Testing & Automation
+## 🧪 Testing & Automation and Others...
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,jenkins,airflow,jest" />
+</p>
 <p>
   🔹 Automated Testing  
   🔹 CI/CD Pipelines  
