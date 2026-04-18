@@ -28,7 +28,7 @@
 
 ## 🧪 Testing & Automation and More...
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,redhat,jest,pytest,docker,kubernetes,jenkins" />
+  <img src="https://skillicons.dev/icons?i=linux,redhat,jest,docker,kubernetes,jenkins" />
 </p>
 
 ---
