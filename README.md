@@ -9,7 +9,7 @@
 
 ## About Me
 -Automation Tester at Intel  
--Backend & Test Automation Specialist 
+-Backend & Test Automation Specialist  
 -Always improving and learning new technologies  
 
 ---
