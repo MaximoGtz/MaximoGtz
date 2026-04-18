@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,mariadb" />
 </p>
 
-## 🧪 Testing & Automation and More...
+### 🧪 Testing & Automation and More...
 <p>
   <img src="https://skillicons.dev/icons?i=linux,redhat,jest,docker,kubernetes,jenkins" />
 </p>
