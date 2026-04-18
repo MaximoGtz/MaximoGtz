@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maximo Gutierrez</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Automation+Tester+at+Intel;Backend+and+Frontend+Developer;Python+%7C+Django+%7C+PHP+%7C+Laravel+%7C+Node+%7C+React;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Automation+Tester+at+Intel;Backend+and+Frontend+Developer;+%7C+Python+%7C+Django+%7C+PHP+%7C+Laravel+%7C+Node+%7C+React;Always+learning+new+things" />
 </p>
 
 ---
