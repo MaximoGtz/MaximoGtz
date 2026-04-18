@@ -26,16 +26,9 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,mariadb" />
 </p>
 
----
-
-## 🧪 Testing & Automation and Others...
+## 🧪 Testing & Automation and More...
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,jenkins,airflow,jest" />
-</p>
-<p>
-  🔹 Automated Testing  
-  🔹 CI/CD Pipelines  
-  🔹 Scripting & QA Processes  
+  <img src="https://skillicons.dev/icons?i=linux,redhat,jenkins,jest,pytest" />
 </p>
 
 ---
