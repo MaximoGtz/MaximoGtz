@@ -18,7 +18,7 @@
 
 ### ⚡ Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,nodejs,react,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,nodejs,react" />
 </p>
 
 ### 🗄️ Databases
@@ -28,7 +28,7 @@
 
 ## 🧪 Testing & Automation and More...
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,redhat,jenkins,jest,pytest" />
+  <img src="https://skillicons.dev/icons?i=linux,redhat,jest,pytest,docker,kubernetes,jenkins" />
 </p>
 
 ---
