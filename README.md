@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-💻 Automation Tester @ Intel  
+💻 Automation Tester at Intel  
 ⚙️ Backend & Test Automation Specialist  
 🌱 Always improving and learning new technologies  
 
