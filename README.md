@@ -18,12 +18,12 @@
 
 ### ⚡ Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,nodejs,react,docker,kubernetes" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,mariadb" />
 </p>
 
 ---
