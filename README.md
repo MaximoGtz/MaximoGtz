@@ -14,40 +14,21 @@
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
-### ⚡ Languages & Frameworks
+### Languages & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,nodejs,react" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,mariadb" />
 </p>
 
-### 🧪 Testing & Automation and More...
+### Testing & Automation and More...
 <p>
   <img src="https://skillicons.dev/icons?i=linux,redhat,jest,docker,kubernetes,jenkins" />
-</p>
-
----
-
-## 📌 Pinned Projects
-<p align="center">
-  <a href="https://github.com/MaximoGtz/faltantes_api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaximoGtz&repo=faltantes_api&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/MaximoGtz/faltantes_front">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaximoGtz&repo=faltantes_front&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaximoGtz&theme=tokyonight" />
 </p>
 
 ---
