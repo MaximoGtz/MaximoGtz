@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Automation+Tester+at+Intel;Backend+and+Frontend+Developer;Python+%7C+Javascript+%7C+PHP+%7C+MySQL;Always+learning+new+things" />
 </p>
 
----
-
 ## About Me
 -Automation Tester at Intel  
 -Backend & Test Automation Specialist  
