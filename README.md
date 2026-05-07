@@ -6,9 +6,11 @@
 </p>
 
 ## About Me
--Automation Tester at Intel  
--Backend & Test Automation Specialist  
--Always improving and learning new technologies  
+Automation Tester at Intel with a strong focus on backend development and test automation. Passionate about building reliable, scalable, and efficient solutions while continuously improving both technical and professional skills.
+
+I enjoy working with technology, solving complex problems, and learning new tools that help optimize development and testing processes. Beyond software engineering, I’m someone who values discipline, consistency, and continuous growth.
+
+Outside of work, I enjoy sports, playing the piano, and exploring different interests that help me maintain creativity and balance. I believe that combining technical expertise with personal development is key to long-term success in any field. 
 
 ---
 
