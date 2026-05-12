@@ -14,7 +14,7 @@ Outside of work, I enjoy sports, playing the piano, and exploring different inte
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 ### Languages & Frameworks
 <p>
