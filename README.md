@@ -1,39 +1,43 @@
 <!-- HEADER -->
+
 <h1 align="center">Hi 👋, I'm Maximo Gutierrez</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Automation+Tester+at+Intel;Backend+and+Frontend+Developer;Python+%7C+Javascript+%7C+PHP+%7C+MySQL;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Development+%26+Management+Engineer;Backend+and+Frontend+Developer;Python+%7C+Javascript+%7C+Docker+%7C+React;Always+learning+new+things" />
 </p>
 
 ## About Me
-Automation Tester at Intel with a strong focus on backend development and test automation. Passionate about building reliable, scalable, and efficient solutions while continuously improving both technical and professional skills.
 
-I enjoy working with technology, solving complex problems, and learning new tools that help optimize development and testing processes. Beyond software engineering, I’m someone who values discipline, consistency, and continuous growth.
+I am a **Software Development and Management Engineering** student nearing graduation, currently working as an Automation Tester at Intel. I have a strong passion for software architecture, backend development, and robust test automation. I thrive on building reliable, scalable, and efficient software systems while continuously refining my engineering methodologies.
 
-Outside of work, I enjoy sports, playing the piano, and exploring different interests that help me maintain creativity and balance. I believe that combining technical expertise with personal development is key to long-term success in any field. 
+I value discipline, consistent progress, and structural clean code. Outside of engineering, I enjoy playing the piano, sports, and exploring creative outlets that keep my mind balanced and sharp.
 
 ---
 
 ### Tech Stack
 
-### Languages & Frameworks
+### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,nodejs,react" />
 </p>
 
-### Databases
+### 🗄️ Databases & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,mariadb" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,docker,jenkins" />
 </p>
 
-### Testing & Automation and More...
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,redhat,jest,docker,kubernetes,jenkins" />
+---
+
+## 📊 Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MaximoGtz&theme=gruvbox&hide_border=true&background=FFFFFF00">
 </p>
 
 ---
 
 ## 🌐 Connect With Me
+
 <p>
   <a href="https://linkedin.com/in/maximo-gutierrez-02b394295/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
